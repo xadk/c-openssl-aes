@@ -4,7 +4,7 @@
 
 Just an example on how to use AES for file and text encryption/decryption in C using OpenSSL.
 I couldn't find much resources/manuals available for OpenSSL implementation in C,
-So I made a boilerplate, hopefully this can help someone.
+So I made this boilerplate, hopefully this can help someone looking for something similar.
 
 ## Dependencies
 

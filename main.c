@@ -158,7 +158,7 @@ int test_encryption()
   unsigned char iv[] = "1234567887654321";
 
   /**
-   * for aes_256_cbc: msg must be atleast 16 bytes or more
+   * for aes_256_cbc: msg_len must be atleast 16 bytes or more
    */
   unsigned char msg[] = "Hello from OpenSSL!";
   size_t msg_len = strlen(msg);
